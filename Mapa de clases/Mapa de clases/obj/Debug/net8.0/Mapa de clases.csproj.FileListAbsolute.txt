@@ -1,0 +1,14 @@
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\bin\Debug\net8.0\Mapa de clases.exe
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\bin\Debug\net8.0\Mapa de clases.deps.json
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\bin\Debug\net8.0\Mapa de clases.runtimeconfig.json
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\bin\Debug\net8.0\Mapa de clases.dll
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\bin\Debug\net8.0\Mapa de clases.pdb
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\obj\Debug\net8.0\Mapa de clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\obj\Debug\net8.0\Mapa de clases.AssemblyInfoInputs.cache
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\obj\Debug\net8.0\Mapa de clases.AssemblyInfo.cs
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\obj\Debug\net8.0\Mapa de clases.csproj.CoreCompileInputs.cache
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\obj\Debug\net8.0\Mapa de clases.dll
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\obj\Debug\net8.0\refint\Mapa de clases.dll
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\obj\Debug\net8.0\Mapa de clases.pdb
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\obj\Debug\net8.0\Mapa de clases.genruntimeconfig.cache
+C:\Users\isael\OneDrive\Documentos\Itla\Programacion 2\Tarea 1\Mapa de clases\Mapa de clases\obj\Debug\net8.0\ref\Mapa de clases.dll
